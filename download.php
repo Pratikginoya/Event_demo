@@ -2,7 +2,7 @@
 
 <?php 
 
-$con = mysqli_connect("localhost","id21219078_demo_event","Demo@123","id21219078_event_demo");
+$con = mysqli_connect("localhost","root","","eventdata");
 
 if(isset($_POST['submit']))
 	
